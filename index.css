@@ -1,0 +1,12 @@
+*{
+    margin: 100px;
+    padding: 10px;
+}
+
+ul,ol,li{
+    list-style: none;
+}
+
+a,a:hover,a:active{
+    text-decoration: none;
+}
